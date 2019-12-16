@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "FosterLeadsCRM",
+    "packageName": "com.techp.crm",
+    "packageFolder": "com/techp/crm",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "mr"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "ODY1OTBjZWVjYjI2NTllN2NjODZkNTJjNTkxZjA0MzAzNWRhMzkwN2U0MmVmMjc2M2RjNWE0YTA5ZjhiMWY1MWY0NGVhYzYyOTg5ZjczZTlhZTVhYWU4YWFmOTU0MWU2NmM0M2E5NjY5NmJlNzg1ZGIyMWE1ODE2YjBiNDJiMTM=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "pramod-jazz",
+  "repository-name": "FosterLeadsCRMRepo"
+}
